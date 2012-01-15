@@ -1,3 +1,5 @@
 This is provided as is with no guarantee that it will work, and no guarantee of what effect running it will have on your system.
 
 At the moment, I am providing the code, but leaving out the images. I may upload them later, but for the moment, if you'd like to have background images automatically added in on non-color tiles, simply name the file after the name of the tile, in all lowercase with underscores instead of spaces.
+
+You need to link the index file to a mootools library.
